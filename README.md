@@ -45,7 +45,7 @@ Thanks & Credits to the Adminer & AdminerEvo GitHub Teams, for providing the bas
 
 Hope you find this software very useful in your day to day work. If you do, please give a Star Rating to it, so that others get to know about it.
 
-## Screenshots & Youtube Video : 
+## Screenshots: 
 
 ![Alt Text](https://github.com/linuxguist/Easy_Database_Forms_For_All/blob/main/screenshot1.png "Image Title")
 
@@ -58,5 +58,7 @@ Hope you find this software very useful in your day to day work. If you do, plea
 ![Alt Text](https://github.com/linuxguist/Easy_Database_Forms_For_All/blob/main/screenshot5.png "Image Title")
 
 ![Alt Text](https://github.com/linuxguist/Easy_Database_Forms_For_All/blob/main/screenshot6.png "Image Title")
+
+## Youtube Video: 
 
 [![Watch the video](https://img.youtube.com/vi/FCL0jFjDAwY/maxresdefault.jpg)](https://youtu.be/FCL0jFjDAwY)
