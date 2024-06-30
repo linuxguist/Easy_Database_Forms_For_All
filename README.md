@@ -1,11 +1,14 @@
 # Easy_Database_Forms_For_All
 Create Web Based Forms Quickly, With In-built DB, For All Your Teams
 
+
+
 Please watch the video/screenshots below for easy installation steps. This video is taken from my other project, with many similarities and some naming differences.
 
 After installation, login to the Administration Page with :
 
-Username : root
+Username : root  
+
 Password : change_this
 
 and look at the team1 database and the sample_table in it.
@@ -14,7 +17,8 @@ You can now create your own required tables/forms.
 
 Also, login into the team1 user page ( from homepage ) with :
 
-Username : team1 
+Username : team1  
+
 Password : change_this
 
 to check its facilities.
