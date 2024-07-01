@@ -1,7 +1,7 @@
 # Easy_Database_Forms_For_All
 Create Web Based Forms Quickly, With In-built DB, For All Your Teams
 
-
+## Direct Download Link ( Right Click to "Open Link in New Tab" ) : https://sourceforge.net/projects/easy-database-forms-for-all/files/latest/download
 
 Please watch the video/screenshots below for easy installation steps. This video is taken from my other project, with many similarities and some naming differences.
 
