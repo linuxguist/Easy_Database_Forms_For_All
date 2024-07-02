@@ -45,6 +45,12 @@ Thanks & Credits to the Adminer & AdminerEvo GitHub Teams, for providing the bas
 
 Hope you find this software very useful in your day to day work. If you do, please give a Star Rating to it, so that others get to know about it.
 
+For those, who would like to learn the Easy English like Database SQL language commands fast, here is a download link for the same ( Open this link in a new tab ) : https://sourceforge.net/projects/sample-sqlite-database-and-csv/files/latest/download
+
+While creating multiple tables for a neat data seggregation, you may consider creating foreign keys in them, to reference their source data tables. Here are some adminer links, that refer to the same :   https://sourceforge.net/p/adminer/discussion/960418/thread/45948f44/  and https://sourceforge.net/p/adminer/discussion/960418/thread/61338c39a2/
+
+Tags : Database Engines/Servers, HTTP Servers, Application Servers, Web Server, Database Server, PHP, MYSQL,MARIADB,APACHE,Free, Open Source, Form Creator / Generator / Builder / Tool, helpdesk, support, tasks-app, customer support, knowledge-base, php, mysql, teamwork, team, collaboration, forms, Web-forms, database, erp, hr, Accounting, Operations, Legal, data, collection, crm, business, management, school management, college management, company management, institution, sales, marketing, hrms, erp, enterprise, data center, Customer Service, Human Resources, Finance, IT, Compliance, Project Management, Excel, LibreOffice, OpenOffice, Online Spreadsheet, share, employee management, products, services, inventory management, manufacturing, technical support, production, goods, quality control, Information Technology, departments, company, industry, Infrastructure, Version Control, Media sharing, Wiki, Developer, Forum, CMS, eLearning, Bug Tracking, Analytics, Blog, Repository, Poll Management, Portal, Educational, LMS, Learning, Training, Library, Calendar, Student Information System (SIS), School Management System (SMS), School ERP, Task Management, Incident Management, Problem Management, Change Management, Asset Management, Service Request Management, SLA Management, Record, Register, Notes, Diary, Journal
+
 ## Screenshots: ( Right Click to "Open Link in New Tab" )
 
 ![Alt Text](https://github.com/linuxguist/Easy_Database_Forms_For_All/blob/main/screenshot1.png "Image Title")
