@@ -37,8 +37,6 @@ As this system is meant for local network usage, it uses a self-signed https cer
 
 Please save this webpage completely, for future references.
 
-Tags : Database Engines/Servers, HTTP Servers, Application Servers, Web Server, Database Server, PHP, MYSQL,MARIADB,APACHE,Free, Open Source, Form Creator / Generator / Builder / Tool
-
 A Quick LAMP / WAMP / MAMP / XAMPP Package for development, testing & production
 
 Thanks & Credits to the Adminer & AdminerEvo GitHub Teams, for providing the base for this project. If you like Adminer ( as i did ), you can support its development efforts, by contributing as a sponsor on their websites.
