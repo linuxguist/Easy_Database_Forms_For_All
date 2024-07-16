@@ -37,7 +37,7 @@ As this system is meant for local network usage, it uses a self-signed https cer
 
 Please save this webpage completely, for future references.
 
-This is also a Quick LAMP / WAMP / MAMP / XAMPP Package for development, testing & production
+This is also a Quick LAMP / WAMP / MAMP / XAMPP ( x86 / x86_64 Bit ) Package for development, testing & production
 
 Thanks & Credits to the Adminer & AdminerEvo GitHub Teams, for providing the base for this project. If you like Adminer ( as i did ), you can support its development efforts, by contributing as a sponsor on their websites.
 
