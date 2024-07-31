@@ -23,13 +23,13 @@ Password : change_this
 
 to check its facilities.
 
-You can also create your own users, databases, grant privileges, change passwords, enable audits, create tables etc. by having a look at this file : C:\forms\httpd\htdocs\team1_user_and_database_creation.sql
+You can also create your own users, databases, grant privileges, change passwords, enable audits, create tables etc. by having a look at this file : C:\forms64bit\httpd\htdocs\team1_user_and_database_creation.sql
 
 Also, the files, index.html and the team[1-8].php present in the same folder, can be studied for more customization. Use a good Text / Code Editor Software like "Sublime Text" OR Notepad++ to open these files. Check Google For Them.
 
 ## Features:
 
-The Web Server & Database Server included in the package can work on both Windows 32 & Windows 64 Bit Operating Systems.
+A Windows 32 Bit Version of this Package is also available in the Files Tab of the Above mentioned project website. Its name is forms.zip . This 32 Bit Version will have a default file / memory size limit of 2 GB.
 
 The Application Logins mentioned above will only work on the secure https connection and not on the insecure http connection.
 
@@ -51,7 +51,7 @@ Also, refer the screenshots of my other project, for an understanding of how dat
 
 Creating Foreign keys also help immensly in maintaining uniformity of data input and prevents varied / spelling mistake prone data inputs.
 
-Consider, installing this package, on a PC, with atleast 3 GB of free memory ( check on task manager ) and then follow this simple guide, for alloting more memory, to the MariaDB database server, for enhancing its performance ( open this link in new tab ) : https://sourceforge.net/projects/my-project-files/files/mysql_mariadb_performance_enhancements_guide.txt/download
+Consider, installing this package, on a PC, with atleast 3 GB of free memory ( check on task manager ) and then follow this simple guide, for alloting more memory, to the MariaDB database server, for enhancing its performance ( open this link in new tab ) : https://sourceforge.net/projects/my-project-files/files/mysql_mariadb_performance_enhancements_guide.txt/download  If needed, you can increase it even more, for the 64 Bit Version of this Software Package.
 
 Tags : Database Engines/Servers, HTTP Servers, Application Servers, Web Server, Database Server, PHP, MYSQL,MARIADB,APACHE,Free, Open Source, Form Creator / Generator / Builder / Tool, helpdesk, support, tasks-app, customer support, knowledge-base, php, mysql, teamwork, team, collaboration, forms, Web-forms, database, erp, hr, Accounting, Operations, Legal, data, collection, crm, business, management, school management, college management, company management, institution, sales, marketing, hrms, erp, enterprise, data center, Customer Service, Human Resources, Finance, IT, Compliance, Project Management, Excel, LibreOffice, OpenOffice, Online Spreadsheet, share, employee management, products, services, inventory management, manufacturing, technical support, production, goods, quality control, Information Technology, departments, company, industry, Infrastructure, Version Control, Media sharing, Wiki, Developer, Forum, CMS, eLearning, Bug Tracking, Analytics, Blog, Repository, Poll Management, Portal, Educational, LMS, Learning, Training, Library, Calendar, Student Information System (SIS), School Management System (SMS), School ERP, Task Management, Incident Management, Problem Management, Change Management, Asset Management, Service Request Management, SLA Management, Record, Register, Notes, Diary, Journal, Professional, Lawyers, Hospital, Patient, Client, Medical, Clinic, Pharmaceuticals, Shop, Store, Market, Boutique, Retail, Vendor, Supplier, Procure, Purchase, Workshop, Studio, Factory, Healthcare, Dentists, Optometrists, Therapists, Counselors, Consultants, Architects, Engineers, Dealerships, Real Estate Agents, Travel Agencies, Booking Services, Hardware, Electrical, Electronics, Utilities, Shipping, Delivery, Hospitality, Hotels, Airlines, Educational, University, Non-Profit Organizations, Charities, NGO, Salons, Fitness Centers, Gyms, transactions, payments, billing history, KYC, campaigns, promotions, loyalty programs, complaints, regulations, Contracts, agreements, Doctors, Nurses, Pharmacists, Designers, Developers, Scientists, Civil, Construction, Mechanical, Geologists, Research, Lab, Administrators, Analysts, Investment, Stockbrokers, Managers, Entrepreneurs, Consultants, Public Relations, Police, Military, Planning, Editors, Photographers, Call Center, Chefs, Cooks, Recipes, Staff, Coaches, Trainers
 
